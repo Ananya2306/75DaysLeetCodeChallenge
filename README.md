@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Ananya2306/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Ananya2306/75DaysLeetCodeChallenge/tree/master/0332-reconstruct-itinerary) |
 ## Graph Theory
 |  |
@@ -177,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Ananya2306/75DaysLeetCodeChallenge/tree/master/0332-reconstruct-itinerary) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Ananya2306/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Ananya2306/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Ananya2306/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
